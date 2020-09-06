@@ -238,6 +238,58 @@
   box-shadow: none;
 }
 
+/* form */
+.form {
+	height: 380px;
+	width: 380px;
+	background-color: white;
+	margin: auto;
+	border-radius: 3px;
+}
+
+.text {
+	text-align: center;
+	font-size: 30px;
+	font-weight: bold;
+	padding-top: 15px;
+}
+
+.nama {
+	margin-left: 97px;
+	margin-bottom: 10px;
+	height: 30px;
+	width: 50%;
+	text-align: center;
+}
+
+.email {
+	margin-left: 97px;
+	margin-bottom: 10px;
+	height: 30px;
+	width: 50%;
+	text-align: center;
+}
+
+.pesan {
+	margin-left: 97px;
+	margin-bottom: 10px;
+	height: 70px;
+	width: 50%;
+	text-align: center;
+}
+
+.kirim {
+	margin-left: 150px;
+	margin-top: 15px;
+	cursor: progress;
+	color:  white;
+	height: 40px;
+	border: none;
+	background-color: #252321; 
+	border-radius: 4px;
+}
+
+
 	
 /* footer */
 footer {
